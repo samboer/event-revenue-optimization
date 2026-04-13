@@ -8,15 +8,15 @@ Objective
 Develop a predictive model to understand how ticket pricing, marketing spend, and event characteristics impact ticket demand and total revenue.
 
 Key Features
-Data cleaning and exploratory analysis using Python (pandas)
-Demand modeling (price vs tickets sold)
-Revenue optimization framework
-Data visualization for business insights
-Tools Used
-Python (pandas, numpy, matplotlib)
-SQL-style data manipulation
-Jupyter Notebook
-Business Application
+  Data cleaning and exploratory analysis using Python (pandas)
+  Demand modeling (price vs tickets sold)
+  Revenue optimization framework
+  Data visualization for business insights
+  Tools Used
+  Python (pandas, numpy, matplotlib)
+  SQL-style data manipulation
+  Jupyter Notebook
+  Business Application
 
 This model can be used by live event operators (e.g., AEG, Live Nation) to:
 
