@@ -1,6 +1,5 @@
 # event-revenue-optimization
 Predictive modeling and revenue optimization for live events using Python, SQL-style data processing, and data visualization.
-Event Revenue Optimization Model
 
 This project analyzes and models ticket pricing strategies for live events (festivals, concerts, venues) to maximize revenue and attendance.
 
