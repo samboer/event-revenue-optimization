@@ -1,1 +1,11 @@
-
+event_id,city,capacity,ticket_price,tickets_sold,marketing_spend,genre,days_to_event
+1,Los Angeles,50000,150,42000,200000,EDM,60
+2,Las Vegas,60000,180,50000,250000,EDM,45
+3,San Diego,40000,120,35000,150000,Rock,30
+4,San Francisco,45000,200,38000,300000,Hip-Hop,50
+5,Phoenix,30000,100,27000,120000,Country,20
+6,Denver,35000,130,30000,140000,EDM,25
+7,Austin,50000,160,45000,220000,Rock,40
+8,Miami,55000,190,52000,280000,Latin,35
+9,Seattle,42000,140,36000,160000,Indie,28
+10,Chicago,48000,170,41000,210000,Hip-Hop,38
